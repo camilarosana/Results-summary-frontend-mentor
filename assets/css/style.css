@@ -3,6 +3,7 @@
 body {
     margin: 0;
     width: 1440px;
+    font-family: Hanken Grotesk, sans-serif;
 }
 section {
     display: flex;
